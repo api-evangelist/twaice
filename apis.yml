@@ -1,8 +1,16 @@
 aid: twaice
 name: Twaice
-description: 'Twaice is a company surfaced as a portfolio company of creandum, speedinvest and added to
-  the API Evangelist network as a stub for enrichment. Sector: climate. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  TWAICE (TWAICE Technologies GmbH) is a Munich-based battery analytics software
+  company. Its predictive analytics platform turns BMS data from battery energy
+  storage systems (BESS) and electric-vehicle fleets into actionable insights for
+  performance management, warranty management, safety monitoring, digital
+  commissioning, and BESS reporting, alongside a battery simulation model library
+  for engineers. Customers include BESS asset owners and operators, IPPs,
+  utilities, automotive and bus/truck OEMs, and battery manufacturers. TWAICE is
+  ISO 27001 certified, holds the automotive TISAX label, and is backed by
+  investors including Creandum and Speedinvest. It publishes no public API or
+  developer program; the platform is a closed SaaS.
 url: https://raw.githubusercontent.com/api-evangelist/twaice/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +19,31 @@ x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://github.com/TWAICE.png
 tags:
 - Company
 - Climate
+- Batteries
+- Battery Analytics
+- Energy Storage
+- Electric Vehicles
+- Energy
+- Predictive Analytics
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +53,34 @@ maintainers:
 common:
 - type: Website
   url: https://www.twaice.com/
+- type: Blog
+  url: https://www.twaice.com/blog
+- type: GitHubOrganization
+  url: https://github.com/TWAICE
+- type: TermsOfService
+  url: https://www.twaice.com/legal/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.twaice.com/legal/privacy-policy
+- type: Careers
+  url: https://www.twaice.com/careers
+- type: Contact
+  url: https://www.twaice.com/contact
+- type: LinkedIn
+  url: https://www.linkedin.com/company/twaice
+- type: Twitter
+  url: https://twitter.com/TwaiceTech
+- type: Compliance
+  url: https://www.twaice.com/newsroom/twaice-achieves-iso-27001-certification
+- type: Conformance
+  url: conformance/twaice-conformance.yml
+- type: Packages
+  url: packages/twaice-packages.yml
+- type: LLMsTxt
+  url: llms/twaice-llms.txt
+- type: DomainSecurity
+  url: security/twaice-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

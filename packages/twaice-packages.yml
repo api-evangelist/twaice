@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=twaice + https://github.com/TWAICE
+notes: >-
+  TWAICE Technologies publishes two first-party open-source utility libraries under
+  the @twaice npm scope (mirrored from its public GitHub org). These are infrastructure
+  helper libraries (AWS Kinesis producers), not API client SDKs — TWAICE does not
+  publish a public API or client SDKs. No first-party packages were found on PyPI
+  (twaice, twaice-sdk, twaice-api, twaice-client all 404), Maven Central, NuGet,
+  RubyGems, Packagist, or crates.io.
+packages:
+- language: typescript
+  registry: npm
+  name: '@twaice/node-kinesis-producer'
+  url: https://www.npmjs.com/package/@twaice/node-kinesis-producer
+  install: npm install @twaice/node-kinesis-producer
+  repository: https://github.com/TWAICE/node-kinesis-producer
+  description: Kinesis Producer Library for NodeJS
+  official: true
+  api_client: false
+- language: typescript
+  registry: npm
+  name: '@twaice/nestjs-kinesis-producer'
+  url: https://www.npmjs.com/package/@twaice/nestjs-kinesis-producer
+  install: npm install @twaice/nestjs-kinesis-producer
+  repository: https://github.com/TWAICE/nestjs-kinesis-producer
+  description: Kinesis Producer Library for NestJS
+  official: true
+  api_client: false

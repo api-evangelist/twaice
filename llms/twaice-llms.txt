@@ -1,0 +1,34 @@
+# TWAICE
+
+> TWAICE (TWAICE Technologies GmbH) is a Munich-based battery analytics software company. Its cloud platform turns BMS data from battery energy storage systems (BESS) and electric-vehicle fleets into predictive insights for performance management, warranty tracking, safety monitoring, digital commissioning, and BESS reporting, alongside a library of battery simulation models. TWAICE serves BESS asset owners and operators, IPPs, utilities, automotive and bus/truck OEMs, and battery manufacturers. The company is ISO 27001 certified and holds the automotive TISAX label. TWAICE does not publish a public API or developer program; the platform is a closed SaaS accessed by customers.
+
+## Company
+
+- [Website](https://www.twaice.com/): TWAICE Battery Storage Analytics
+- [About](https://www.twaice.com/about-us): Company background
+- [Customers](https://www.twaice.com/customers): Customer stories and references
+- [Partners](https://www.twaice.com/partners): Partner ecosystem (includes integrations such as Modo Energy for ERCOT markets)
+- [Newsroom](https://www.twaice.com/newsroom): Press releases, including ISO 27001 and TISAX announcements
+- [Blog](https://www.twaice.com/blog): Operational insights and guides
+- [Battery Encyclopedia](https://www.twaice.com/battery-encyclopedia): Reference glossary of battery and BESS terms
+- [Careers](https://www.twaice.com/careers): Open roles
+
+## Products
+
+- [Energy Storage Analytics — Performance](https://www.twaice.com/products/energy-storage-analytics/performance): Performance Manager for BESS
+- [Energy Storage Analytics — Warranty Manager](https://www.twaice.com/products/energy-storage-analytics/warranty-manager): Warranty and guarantee tracking
+- [Energy Storage Analytics — Safety](https://www.twaice.com/products/energy-storage-analytics/safety): Safety monitoring
+- [Energy Storage Analytics — Digital Commissioning](https://www.twaice.com/products/energy-storage-analytics/digital-commissioning): Pre-COD issue detection
+- [Battery Simulation Models](https://www.twaice.com/products/battery-simulation-models): Simulation model library for battery engineers
+
+## Legal
+
+- [Terms and Conditions](https://www.twaice.com/legal/terms-and-conditions)
+- [Privacy Policy](https://www.twaice.com/legal/privacy-policy)
+- [Legal Notice](https://www.twaice.com/legal/legal-notice)
+
+## Open Source
+
+- [GitHub Organization](https://github.com/TWAICE): TWAICE Technologies public repos
+- [@twaice/node-kinesis-producer](https://www.npmjs.com/package/@twaice/node-kinesis-producer): Kinesis Producer Library for NodeJS
+- [@twaice/nestjs-kinesis-producer](https://www.npmjs.com/package/@twaice/nestjs-kinesis-producer): Kinesis Producer Library for NestJS
