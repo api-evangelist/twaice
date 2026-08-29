@@ -12,6 +12,9 @@ description: >-
   investors including Creandum and Speedinvest. It publishes no public API or
   developer program; the platform is a closed SaaS.
 url: https://raw.githubusercontent.com/api-evangelist/twaice/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It publishes no public API or developer program; the platform is a closed SaaS."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
